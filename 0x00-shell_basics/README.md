@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
-
-/c/Users/hob/Downloads/git_hub/alx-system_engineering-devops/0x00-shell_basics
-=======
-/root/alx-system_engineering-devops/0x00-shell_basics
->>>>>>> b5f99b13b11179e08de3ecd33b4730b2436bdcb7
+/tmp/correction/3827498950781307345064765088131417282726_5/205/172703/0x00-shell_basics/0-current_working_directory doesn't contain ^#!/bin/bash
